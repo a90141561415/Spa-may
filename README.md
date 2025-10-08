@@ -269,17 +269,7 @@
                         <div class="service-duration">90分鐘</div>
                     </div>
                     <div class="service-price">NT.1150</div>
-                    <div class="service-benefit">功效：全面性足部護理，包含小腿按摩，深度放鬆筋膜，改善水腫問題，提升睡眠品質。</div>
-                </div>
-                
-                <div class="service-item">
-                    <div class="service-header">
-                        <div class="service-name">漢方足部按摩</div>
-                        <div class="service-duration">120分鐘</div>
-                    </div>
-                    <div class="service-price">NT.1400</div>
-                    <div class="service-benefit">功效：完整足部與下肢護理，結合反射區，不僅放鬆雙腳,刺激五臟，達到全身性的保健效果。</div>
-                </div>
+                    <div class="service-benefit">功效：全面性足部護理，包含小腿按摩，深度放鬆筋膜，改善水腫問題，提升睡眠品質。
             </div>
             
             <div class="service-category">
