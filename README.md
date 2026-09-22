@@ -259,7 +259,7 @@
                         <div class="service-name">漢方足部按摩（基礎）</div>
                         <div class="service-duration">60分鐘</div>
                     </div>
-                    <div class="service-price">NT.700</div>
+                    <div class="service-price">NT.800</div>
                     <div class="service-benefit">功效：針對足底穴位進行按摩，促進循環，緩解腿部疲勞，改善腳部冰冷問題，適合久站或長時間行走後放鬆。</div>
                 </div>
                 
@@ -268,7 +268,7 @@
                         <div class="service-name">漢方足部按摩</div>
                         <div class="service-duration">90分鐘</div>
                     </div>
-                    <div class="service-price">NT.1150</div>
+                    <div class="service-price">NT.1300</div>
                     <div class="service-benefit">功效：全面性足部護理，包含小腿按摩，深度放鬆筋膜，改善水腫問題，提升睡眠品質。
             </div>
             
@@ -280,7 +280,7 @@
                         <div class="service-name">足部+身體按摩</div>
                         <div class="service-duration">100分鐘</div>
                     </div>
-                    <div class="service-price">NT.1450</div>
+                    <div class="service-price">NT.1600</div>
                     <div class="service-benefit">功效：結合足部反射區與身體經絡按摩，疏通全身，緩解肌肉僵硬，提升能量流動，適合需要全面放鬆的客人。</div>
                 </div>
             </div>
@@ -293,7 +293,7 @@
                         <div class="service-name">身體鬆筋按摩</div>
                         <div class="service-duration">60分鐘</div>
                     </div>
-                    <div class="service-price">NT.1000</div>
+                    <div class="service-price">NT.1100</div>
                     <div class="service-benefit">功效：指壓能深度刺激穴位，疏通經絡，緩解日常壓力造成的肌肉緊繃。</div>
                 </div>
                 
@@ -302,7 +302,7 @@
                         <div class="service-name">身體鬆筋按摩（指壓/油壓）</div>
                         <div class="service-duration">90分鐘</div>
                     </div>
-                    <div class="service-price">NT.1450</div>
+                    <div class="service-price">NT.1600</div>
                     <div class="service-benefit">功效：指壓能深度刺激穴位，疏通經絡；油壓則能滋潤肌膚，放鬆肌肉纖維。可根據個人需求選擇，有效緩解深層肌肉疲勞。</div>
                 </div>
                 
@@ -311,7 +311,7 @@
                         <div class="service-name">身體鬆筋按摩（指壓/油壓）</div>
                         <div class="service-duration">120分鐘</div>
                     </div>
-                    <div class="service-price">NT.1900</div>
+                    <div class="service-price">NT.2100</div>
                     <div class="service-benefit">功效：全身性深度護理，從頭到腳徹底放鬆，促進淋巴排毒，恢復身體活力，適合長期壓力大或運動後的深度恢復。</div>
                 </div>
             </div>
@@ -326,7 +326,7 @@
                         <div class="service-name">肩頸刮痧舒壓</div>
                         <div class="service-duration">30分鐘</div>
                     </div>
-                    <div class="service-price">NT.500</div>
+                    <div class="service-price">NT.550</div>
                     <div class="service-benefit">功效：通過刮痧板刺激肩背經絡，排出體內濕氣，緩解頭痛、肩頸僵硬，改善循環。</div>
                 </div>
                 
@@ -335,7 +335,7 @@
                         <div class="service-name">肩頸按摩放鬆</div>
                         <div class="service-duration">30分鐘</div>
                     </div>
-                    <div class="service-price">NT.500</div>
+                    <div class="service-price">NT.550</div>
                     <div class="service-benefit">功效：針對現代人使用電子產品的肩頸問題，使用專業手法鬆解肩、上背、手部，讓筋膜放鬆。</div>
                 </div>
                 
@@ -344,7 +344,7 @@
                         <div class="service-name">耳燭香薰減壓護理</div>
                         <div class="service-duration">40分鐘</div>
                     </div>
-                    <div class="service-price">NT.800</div>
+                    <div class="service-price">NT.850</div>
                     <div class="service-benefit">功效：結合耳燭的溫和熱力與香薰療法，舒緩耳部壓力，改善耳鳴，同時通過香氣放鬆神經系統，顱氏負重。</div>
                 </div>
                 
@@ -353,7 +353,7 @@
                         <div class="service-name">櫸木鬆筋護理</div>
                         <div class="service-duration">90分鐘</div>
                     </div>
-                    <div class="service-price">NT.1700</div>
+                    <div class="service-price">NT.1850</div>
                     <div class="service-benefit">功效：使用櫸木工具進行筋膜放鬆，以疏通經絡、活絡氣血，能舒緩肌肉緊繃、促進血液與淋巴循環，排除體內廢物與水分，達到消除疲勞、提升免疫力等效果。</div>
                 </div>
             </div>
@@ -369,21 +369,21 @@
                             <div class="service-name">足部續時</div>
                             <div class="service-duration">每30分鐘</div>
                         </div>
-                        <div class="service-price">NT.450</div>
+                        <div class="service-price">NT.500</div>
                     </div>
                     <div class="service-item">
                         <div class="service-header">
                             <div class="service-name">身體續時</div>
                             <div class="service-duration">每30分鐘</div>
                         </div>
-                        <div class="service-price">NT.550</div>
+                        <div class="service-price">NT.600</div>
                     </div>
                     <div class="service-item">
                         <div class="service-header">
                             <div class="service-name">櫸木續時</div>
                             <div class="service-duration">每30分鐘</div>
                         </div>
-                        <div class="service-price">NT.650</div>
+                        <div class="service-price">NT.700</div>
                     </div>
                     <div class="service-item">
                         <div class="service-header">
